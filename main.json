@@ -1,0 +1,55 @@
+{
+	 "PROFILE":{
+	 	"img":"me.jpg",
+	 	"name":"SHELSHE",
+	 	"rolno":"16NN1A1239",
+	 	 "department":"INFORMATION TECHNOLIGY",
+	 	 "clz":"VIGNAN'S NIRULA"
+	 	},
+	 	"CAREER":{
+	 		"INFO":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills."
+	 	},
+	 	"Education":[
+	 		{
+	 			"DEGREE":"B.TECH",
+	 			"Institution":"VIGNAN",
+	 			"YOP":"2020"
+            },
+            {
+            	"DEGREE":"INTERMEDIATE",
+            	"Institution":"XPERTS",
+            	"YOP":"2016"
+             },
+             {
+             	"DEGREE":"SSC",
+             	"Institution":"INDIAN SPRINGS",
+             	"YOP":"2014"
+             }
+	 	],
+          "language":[
+          	{
+          		"lang":"telugu"
+
+          },
+          {
+          	"lang":"hindi"
+          },
+          {
+          	"lang":"english"
+          }
+          ],
+    "skills":[
+    {
+      "title":"platforms",
+      "content":"windows,linux"
+    },
+    {
+      "title":"programming languages",
+      "content":"c,c++,java"
+    },
+    {
+      "title":"database",
+      "content":"mysql"
+    }
+  ]
+}   
